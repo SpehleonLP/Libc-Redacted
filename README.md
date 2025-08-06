@@ -64,11 +64,6 @@ No build required! Just compile directly:
 gcc -O2 -o myprogram myprogram.c
 ```
 
-Or test the included example:
-```bash
-make test
-```
-
 ## License
 
 MIT License - See LICENSE file for details.
